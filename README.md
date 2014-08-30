@@ -4,9 +4,9 @@
 
 ### by Dominic Tarr
 
-Some version number systems aspire to merely labeling the changes
-in an interface, but there is so much in the human experience
-that lies outside that realm. Sometimes a version is a number,
+Some version number systems aspire to merely label changes
+in an interface, but there is much in the human experience
+that lies outside of this. Sometimes a version is just a number,
 but sometimes what we really want is  a _poem_.
 
 Semver has a spec, but Sentimental Versioning has not a spec,
@@ -33,19 +33,19 @@ express intangible aspects of the project, and are a work of art on their own.
 
 node.js is like a rebellious teenager. It skips class
 and plays in a punk rock band - yet still gets straight A's.
-And it's versioning system expresses it's dual nature
+And its versioning system expresses its dual nature
 beautifully. Version numbers alternate between even and odd,
 and between stable and unstable. In unstable versions
-node makes it's own rules and sticks it to the man. In stable
-versions node wears a long sleeve shirt over it's tattoos
+node makes its own rules and sticks it to the man. In stable
+versions node wears a long sleeve shirt over its tattoos
 and works at fortune 500 companies (fighting the system from
 the inside?). Some critics say that node is part of the
-establishment now, citing that it's been a very long time
-since it's last album was released, version `0.12` having
-been in the works for over a year. While this accusation
+establishment now, citing that its been a very long time
+since node's last album was released. Version `0.12` having
+been in the works for over a year now. While this accusation
 may carry some weight, you cannot put a time frame on
 creativity, and you must admit that node's use of sentimental
-versioning is a beautiful expression of it's own internal conflicts.
+versioning is a beautiful expression of its own internal conflicts.
 
 ## Backbone
 ### by Jeremy Ashkenas
