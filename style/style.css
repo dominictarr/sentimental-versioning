@@ -34,3 +34,7 @@ p {
   font-family: sans;
   font-size: 1em;
 }
+
+body {
+  padding-bottom: 300px;
+}
