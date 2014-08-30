@@ -1,0 +1,36 @@
+
+@font-face {
+  font-family: Scriptina;
+  src: url('Scriptina/scriptina.eot'),
+    url('Scriptina/scriptina.woff') format('woff'),
+    url('Scriptina/scriptina.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1, h2, h3 {
+  font-family: Scriptina;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  //letter-spacing: 0.1em;
+  word-spacing: 0.3em;
+}
+
+h1 { font-size: 4em; }
+
+h2 { font-size: 3em; }
+
+h3 { font-size: 1.3em; margin-top: -30px;}
+
+p {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  test-justify: newspaper;
+  line-height: 1.4m;
+  color: #22222222;
+  font-family: sans;
+  font-size: 1em;
+}
