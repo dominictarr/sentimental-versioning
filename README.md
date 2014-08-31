@@ -20,7 +20,7 @@ number *must* be meaningful to you, the author.
 
 Interpreting the previous paragraph according to the specific meanings
 defined in [RFC2119](http://www.faqs.org/rfcs/rfc2119.html)
- for _"should"_, _"should not"_, _"may"_, and _"must"_ is entirely _optional_.
+ for _“should”_, _“should not”_, _“may”_, and _“must”_ is entirely _optional_.
 
 # Inspiration
 
@@ -32,19 +32,19 @@ express intangible aspects of the project, and are a work of art on their own.
 ### by Ryan Dahl
 
 node.js is like a rebellious teenager. It skips class
-and plays in a punk rock band - yet still gets straight A's.
-And its versioning system expresses its dual nature
+and plays in a punk rock band - yet still gets straight A’s.
+ts versioning system expresses its dual nature
 beautifully. Version numbers alternate between even and odd,
 and between stable and unstable. In unstable versions
 node makes its own rules and sticks it to the man. In stable
 versions node wears a long sleeve shirt over its tattoos
 and works at fortune 500 companies (fighting the system from
 the inside?). Some critics say that node is part of the
-establishment now, citing that its been a very long time
-since node's last album was released. Version `0.12` having
-been in the works for over a year now. While this accusation
+establishment now, citing that it’s been a very long time
+since its last album was released, version `0.12` having
+been in the works for over a year. While this accusation
 may carry some weight, you cannot put a time frame on
-creativity, and you must admit that node's use of sentimental
+creativity, and you must admit that node’s use of sentimental
 versioning is a beautiful expression of its own internal conflicts.
 
 ## Backbone
@@ -55,14 +55,14 @@ Jeremy calls his versioning system
 (which is _very sentimental_ of him)
 It looks like semver (`major.minor.patch`), but with
 a personal meaning. For him, a patch is a change you
-probably won't notice, and a minor change is when you
+probably won’t notice, and a minor change is when you
 change it a little bit. A major change is when you make
 a major release (notice the circular definition!).
 A major change can be anything or nothing. He says
 every change _should_ be backwards compatible. But what
-does "backwards compatible" mean to Jeremy? That is
-up to you to decide. Jeremy's use of sentimental versioning
-expresses how backbone is his masterpiece, and he, it's master.
+does “backwards compatible” mean to Jeremy? That is
+up to you to decide. Jeremy’s use of sentimental versioning
+expresses how backbone is his masterpiece, and he, its master.
 
 ## TeX and Metafont
 ### by Donald Knuth
