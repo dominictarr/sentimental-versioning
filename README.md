@@ -81,7 +81,7 @@ _exactly_. At that point all remaining bugs will be declared
 features, and the output from TeX will remain the same
 for all eternity.
 
-# Conclusion
+# Realization
 
 What ever happens, not everyone will understand your intentions,
 possibly your genius will not be recognized within your lifetime.
