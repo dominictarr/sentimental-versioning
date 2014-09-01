@@ -1,7 +1,7 @@
 {
   "name": "sentimental-versioning",
   "description": "a guide to beautiful versioning systems",
-  "version": "0.0.0",
+  "version": "1.0.0-ohmy",
   "homepage": "https://github.com/dominictarr/sentimental-versioning",
   "repository": {
     "type": "git",
