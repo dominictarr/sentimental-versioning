@@ -1,6 +1,6 @@
 # Sentimental Versioning
 
-## Version One dot Oh My!
+## Version One dot Oh, Erm...
 
 ### by Dominic Tarr
 
