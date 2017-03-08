@@ -33,7 +33,7 @@ express intangible aspects of the project, and are a work of art on their own.
 
 node.js is like a rebellious teenager. It skips class
 and plays in a punk rock band - yet still gets straight A’s.
-ts versioning system expresses its dual nature
+Its versioning system expresses its dual nature
 beautifully. Version numbers alternate between even and odd,
 and between stable and unstable. In unstable versions
 node makes its own rules and sticks it to the man. In stable
