@@ -81,6 +81,16 @@ _exactly_. At that point all remaining bugs will be declared
 features, and the output from TeX will remain the same
 for all eternity.
 
+## Ruby
+### by Yukihiro Matsumoto
+
+Ruby also likes the looks of SemVer. However they also wanted to
+add their [own flavor to the game](https://www.ruby-lang.org/en/news/2013/12/21/ruby-version-policy-changes-with-2-1-0/).
+Why should only MAJOR be allowed to release breaking changes? MINOR
+should get their slice of that cake as well. Also minor versions are like
+presents, so they are released every Christmas. Major versions on the other
+hand are only reserved for really special events (more special than Christmas).
+
 # Realization
 
 What ever happens, not everyone will understand your intentions,
