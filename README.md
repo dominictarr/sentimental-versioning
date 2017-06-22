@@ -89,4 +89,4 @@ But we did not choose the life of the artist for fame and certainly
 not for fortune - But rather, a dedication to aesthetic beauty and
 self expression.
 
-In this spirit, go forth, and create _beautiful versions!_.
+In this spirit, go forth, and create _beautiful versions!_
