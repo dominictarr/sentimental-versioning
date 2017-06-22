@@ -1,4 +1,3 @@
 #! /usr/bin/env bash
 
-cat header.html <(marked README.md) <(echo '</body></html>') > index.html
-
+marked README.md | cat header.html - footer.html > index.html
