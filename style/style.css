@@ -38,3 +38,8 @@ p {
 body {
   padding-bottom: 300px;
 }
+
+footer p {
+  text-align: center;
+  font-size: 0.8em;
+}
